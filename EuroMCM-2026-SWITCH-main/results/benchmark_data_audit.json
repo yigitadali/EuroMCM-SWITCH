@@ -1,0 +1,23 @@
+{
+  "raw_rows": 1319,
+  "excluded_rows": 12,
+  "clean_rows": 1307,
+  "weak_accuracy": 0.6373374139250191,
+  "strong_accuracy": 0.8576893649579189,
+  "both_correct": 739,
+  "weak_only": 94,
+  "strong_only": 382,
+  "neither": 92,
+  "parser_audit": [
+    {
+      "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+      "rows": 1319,
+      "disagreements": 7
+    },
+    {
+      "model": "gpt-4-1106-preview",
+      "rows": 1319,
+      "disagreements": 42
+    }
+  ]
+}

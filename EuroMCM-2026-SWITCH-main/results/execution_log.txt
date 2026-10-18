@@ -1,0 +1,35 @@
+Pinned source files available; SHA256 manifest written.
+Reconstruction and 30-seed simulation complete; NOT original reproduction.
+                policy  correct_mean  correct_sd  cost_mean  carbon_g_mean
+          Always Small      0.716611    0.011828   1.000000       0.577384
+          Always Large      0.923417    0.006515   5.500000       2.598230
+                 Fixed      0.844167    0.008180   2.666083       1.312875
+          Basic router      0.888500    0.008337   4.212875       1.994159
+      Router + cascade      0.924278    0.006421   4.531722       2.146579
+    Router + reasoning      0.856417    0.009380   2.761080       1.369309
+                SWITCH      0.934694    0.006203   3.333460       1.642096
+ Router + fixed effort      0.863306    0.008791   3.035167       1.478056
+Cascade + fixed effort      0.932944    0.006197   3.521090       1.714737
+Observed-response replay complete. Splits overlap across seeds; no new model calls.
+                       correct      cost  strong_share
+policy
+Always Large          0.858524  5.500000      1.000000
+Always Small          0.628626  1.000000      0.000000
+Basic router          0.834351  4.950153      0.851145
+Oracle upper bound    0.930025  2.476298      0.301399
+Random matched calls  0.827099  4.950153      0.851145
+Router + cascade      0.801527  4.075852      0.636641
+test_benchmark_cost_and_predictions (test_integrity.Integrity) ... ok
+test_calculus_against_grid (test_integrity.Integrity) ... ok
+test_independent_call_accounting (test_integrity.Integrity) ... ok
+test_no_split_overlap (test_integrity.Integrity) ... ok
+test_seed_and_ablation_coverage (test_integrity.Integrity) ... ok
+test_source_bytes (test_integrity.Integrity) ... ok
+test_test_labels_do_not_enter_scores (test_integrity.Integrity) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.032s
+
+OK
+Generated tables, numeric macros, and five figures from verified result files.
+Reproduction comparison: PASS across 19 existing output files

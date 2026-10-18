@@ -1,0 +1,26 @@
+{
+  "total_pages": 17,
+  "main_pages": 16,
+  "ai_report_pages": 1,
+  "memo_page": 15,
+  "file_bytes": 151400,
+  "body_font_size_pdf_points": 11.96,
+  "note": "12 TeX points render as approximately 11.96 PDF points; math scripts may be smaller.",
+  "font_character_counts": {
+    "11.96": 30839,
+    "17.22": 483,
+    "7.97": 62,
+    "14.35": 512,
+    "12.69": 452,
+    "12.24": 39
+  },
+  "summary_one_page": true,
+  "header_checks": true,
+  "no_identifying_team_text": true,
+  "unresolved": [
+    "Replace 000000000 with the actual nine-digit control number.",
+    "Complete the one-page AI usage report accurately.",
+    "Use the actual nine-digit control number as the submitted PDF filename."
+  ],
+  "status": "LAYOUT CHECKED; DRAFT INCOMPLETE FOR SUBMISSION"
+}

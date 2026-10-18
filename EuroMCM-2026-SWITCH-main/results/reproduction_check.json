@@ -1,0 +1,28 @@
+{
+  "verified": true,
+  "checked_files": 19,
+  "changed_files": [],
+  "status": "PASS",
+  "python": "3.9.6 (default, Aug 25 2026, 21:26:21) \n[Clang 21.0.0 (clang-2100.3.34.2)]",
+  "output_hashes": {
+    "results/base_request_results.csv": "d9ae34152d335a9d1601bcd8bc026bca6a09203b79ab7d64798bff2df063c215",
+    "results/benchmark_data_audit.json": "78ea3de184b71b542b32b8b70c69443096d023f8f0ad38640f15a26bdc8176e2",
+    "results/benchmark_predictions.csv": "56f1a3cd2b3636ffdcf7b991a2038e2cdaefc60b4feb6d8350b9291ec2751a5a",
+    "results/benchmark_scorer.csv": "47aba1d11ee3e8b4be6ccac8c5f272d68f6d5446d8554829233b3b5c205c9c0c",
+    "results/benchmark_seeds.csv": "f94124186d6c2c4d6fb5700fc4d57877b2c9bc5892875426624ff6e521449c82",
+    "results/benchmark_splits.csv": "99bafeed24bf09bfb184d34336287b3e2cbc489c0dc91921802a64c45214c73c",
+    "results/benchmark_summary.csv": "24f9e8b366166c0bf6f45fba1b1e3ebbe96380efe76df7eb54c0ce0d832e065b",
+    "results/category_seeds.csv": "8c1a388a7a430a9c91cdd6fda1ab85472123507ea532a4978a4f32d280317f45",
+    "results/category_summary.csv": "59b435783b9ce6b06f6951515010da48015626c3bc8789f3cfaa58a1ea81a69e",
+    "results/original_comparison.csv": "ae101c972a03164322004bcb94191f40925a41662ec62207324d8a711e949f8a",
+    "results/paired_differences.csv": "d3cca9b373800b8f1d43a4ade1ea60fd65fd591b6f6eece1bfabbcd586d7f736",
+    "results/paper_numbers.json": "5ce011e1a2f41b1471fab6e88bdb6b5230f28485179b22c72f5332a3b3692bcb",
+    "results/reconstructed_base.csv": "f3f462fa193a49945b7f10abd4c26a1c6e3ffab002fc2e2eed1236139ef0c639",
+    "results/seeds.json": "f55727949767f480bc236ef77ee4b47d1c4cdd00cab7c577c17176032c463fae",
+    "results/sensitivity_seeds.csv": "1a4e3447a7a7bc88761ccc9c01db2a88fe5811894b9a5da180fe280b5f76a564",
+    "results/sensitivity_summary.csv": "69e35da3cdc5a63d71ae6efc91da43f16c23aecca2d74e7b4aea09d34f87a76a",
+    "results/simulation_config.json": "80c1d0509e6da04209fb641920a94c9671d65c56eb917ec591fdf4f141c20942",
+    "results/simulation_seeds.csv": "6020d9721d509888ebf0b770760268485f9c4f24c52e0356b91892332c29b196",
+    "results/simulation_summary.csv": "3723285aef3756b1ead52069eaa3d04fad1262e839a92fd5394e73ef3d35986f"
+  }
+}

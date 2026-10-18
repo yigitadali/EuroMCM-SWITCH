@@ -1,0 +1,38 @@
+[
+  {
+    "file": "gsm8k_responses.csv",
+    "url": "https://raw.githubusercontent.com/lm-sys/RouteLLM/0b64fdafe049e596a3f5657c219329f24af24198/routellm/evals/gsm8k/gsm8k_responses.csv",
+    "sha256": "1f38ed03db354a020f71e92022383dc3cf37bbf2694dea4daaeea7b6c43fe57b",
+    "bytes": 1291062
+  },
+  {
+    "file": "generate_responses.py",
+    "url": "https://raw.githubusercontent.com/lm-sys/RouteLLM/0b64fdafe049e596a3f5657c219329f24af24198/routellm/evals/gsm8k/generate_responses.py",
+    "sha256": "c22165fa06a913658b10262c20cd03d1d7246b669d48fdd22153171b21156ca5",
+    "bytes": 4110
+  },
+  {
+    "file": "test.jsonl",
+    "url": "https://raw.githubusercontent.com/lm-sys/RouteLLM/0b64fdafe049e596a3f5657c219329f24af24198/routellm/evals/gsm8k/test.jsonl",
+    "sha256": "3730d312f6e3440559ace48831e51066acaca737f6eabec99bccb9e4b3c39d14",
+    "bytes": 749738
+  },
+  {
+    "file": "contaminated_prompts.jsonl",
+    "url": "https://raw.githubusercontent.com/lm-sys/RouteLLM/0b64fdafe049e596a3f5657c219329f24af24198/routellm/evals/gsm8k/contaminated_prompts.jsonl",
+    "sha256": "1f5a7be02148ee0f7f306d233ba76a6573c826cee9499a34f8ef938a1a84c234",
+    "bytes": 6282
+  },
+  {
+    "file": "LICENSE",
+    "url": "https://raw.githubusercontent.com/lm-sys/RouteLLM/0b64fdafe049e596a3f5657c219329f24af24198/LICENSE",
+    "sha256": "43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1",
+    "bytes": 11356
+  },
+  {
+    "file": "GSM8K_LICENSE",
+    "url": "https://raw.githubusercontent.com/openai/grade-school-math/3101c7d5072418e28b9008a6636bde82a006892c/LICENSE",
+    "sha256": "86bbb73e855821d7c401912fd4bf82e34313e6e3b6fd6f909f2b6cc9e209a53b",
+    "bytes": 1062
+  }
+]

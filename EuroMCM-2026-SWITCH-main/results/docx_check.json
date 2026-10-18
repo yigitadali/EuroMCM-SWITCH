@@ -1,0 +1,11 @@
+{
+  "data_tables": 8,
+  "figure_layout_tables": 5,
+  "editable_math_objects": 120,
+  "embedded_figures": 5,
+  "all_paper_numbers_present": true,
+  "title_sanitizer": "PASS",
+  "visual_layout_verified": false,
+  "render_failure": "Required document runtime unavailable; renderer failed on missing pdf2image.",
+  "status": "CONTENT CHECKED EDITABLE DRAFT; GOOGLE DOCS LAYOUT REVIEW REQUIRED"
+}

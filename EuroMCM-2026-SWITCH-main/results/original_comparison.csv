@@ -1,0 +1,5 @@
+policy,accuracy_pct_old_unverified,cost_old_unverified,carbon_g_old_unverified,status,accuracy_pct_new,cost_new,carbon_g_new
+Always Small,72.1,1.0,0.573,unverified supplied-document claim,71.75,1.0,0.5932666666666667
+Always Large,92.9,5.5,2.579,unverified supplied-document claim,92.0,5.5,2.6696999999999997
+Fixed,84.1,2.64,1.304,unverified supplied-document claim,84.66666666666667,2.6725000000000008,1.3511533333333334
+SWITCH,93.5,3.21,1.376,unverified supplied-document claim,93.75,3.190815708432467,1.6123866621933771
