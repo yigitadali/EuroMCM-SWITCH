@@ -7,12 +7,10 @@ This repository contains our team's solution and modeling study for the EuroMCM 
 * `simulate_switch.py` - Core simulation logic for the routing mechanism.
 * `data/` - Benchmark datasets (Mixtral/GPT-4 GSM8K samples used for validation).
 * `scripts/reproduce.py` - Script to rerun experiments and verify results.
-* `paper/` - LaTeX source files and the compiled draft PDF of our report.
 * `figures/ & results/` - Generated plots and data outputs from the test runs.
 
 ## Prerequisites & Installation
-
-This project requires **Python 3.9** or later. All experiments run offline using the pre-loaded data, so you don't need any LLM API keys or GPU acceleration.
+The project requires Python 3.9
 
 1. Clone the repository and navigate inside:
    ```bash
